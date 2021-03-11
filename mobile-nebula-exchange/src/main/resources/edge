@@ -1,0 +1,10 @@
+{"src":"a","dst":"b","degree":34}
+{"src":"c","dst":"d","degree":33}
+{"src":"e","dst":"f","degree":32}
+{"src":"g","dst":"h","degree":31}
+{"src":"i","dst":"j","degree":30}
+{"src":"k","dst":"l","degree":29}
+{"src":"a","dst":"c","degree":28}
+{"src":"e","dst":"l","degree":27}
+{"src":"d","dst":"h","degree":26}
+{"src":"f","dst":"k","degree":25}

@@ -1,0 +1,1 @@
+"{\"hdfs\":\"hdfs://192.168.8.149:9000/\",\"connection\":{\"waredir\":\"hdfs://CM-149:9000/user/vesoft/hive/warehouse\",\"connectionURL\":\"jdbc:mysql://192.168.8.149:3306/metastore?createDatabaseIfNotExist=TRUE\",\"driverName\":\"com.mysql.cj.jdbc.Driver\",\"userName\":\"nebula\",\"password\":\"Nebula@123\"},\"sql\":\"select id,name from default.person\"}"
