@@ -28,7 +28,6 @@ object HiveReader {
 
     val session = SparkSession
       .builder()
-      .master("local")
       .appName(PROGRAM_NAME)
       .config("spark.serializer", "org.apache.spark.serializer.KryoSerializer")
 
